@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/mus_dogsong.ogg-a2372c36b8375e1fb2745d2602fa4b04.oggstr"
+
+[deps]
+
+source_file="res://audio/mus_dogsong.ogg"
+dest_files=[ "res://.import/mus_dogsong.ogg-a2372c36b8375e1fb2745d2602fa4b04.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
