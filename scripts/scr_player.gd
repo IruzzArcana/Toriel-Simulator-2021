@@ -3,7 +3,6 @@ extends KinematicBody
 
 const move_spd = 30
 var movement = Vector3()
-const jump_force = 30
 const gravity = 0.98
 const max_fall_spd = 30
 
